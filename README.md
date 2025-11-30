@@ -1,20 +1,31 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Charlie MacKenzie, Computer Engineering Student (2028)
+
+mcharlie06@vt.edu
 
 ## Mentor
-MENTOR NAME HERE
+TBD
 
 ## Current Status
-IN PROGRESS
+NOT STARTED
 
 ## Project Overview
+This project aims to design a custom PCB for a handheld scientific calculator. The calculator should not simply
+_demonstrate_ calculator functionality: it should look, feel, and act like a calculator.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+### Functional Objectives
+- Compute basic arithmetic and trigonometric operations with up to 10 digits of precision
+- Display numbers and symbols on a legible, low-profile Display
+- Accept user input from a set of physical buttons
+- Exist in one self-contained package with no external input sources or computing devices
+
+### Block Diagram
+**_Pending_**
 
 ## Educational Value Added
-
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+- PCB design experience
+- Embedded programming experience
+- Open-ended design Challenge
 
 ## Tasks
 
