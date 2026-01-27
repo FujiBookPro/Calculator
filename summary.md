@@ -1,8 +1,8 @@
 # Student Names 
-Henry Forsyth
+Charlie MacKenzie
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+This is a custom-designed handheld calculator
 
 # Date Started
-11-16-2000
+TBD

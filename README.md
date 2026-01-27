@@ -1,20 +1,29 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Charlie MacKenzie, Computer Engineering Student (2028)
+mcharlie06@vt.edu
 
 ## Mentor
-MENTOR NAME HERE
+TBA
 
 ## Current Status
 IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+The goal of this project is to design, build, and program a handheld calculator that meets the following requirements:
+
+- Perform calculations using an on-board microcontroller.
+- Use an LCD display for outputs.
+- Be assembled on a custom PCB.
+- Implement at least the 4 core calculator functions.
+- Support operations on non-positive and non-integer values (to reasonable precision).
+- Have useable, identifiable buttons.
+- Conceivably fit in an ergonomic casing. **Note: I have little interest in actually making a casing**
+- At least cursorily attempt to be powered by a battery.
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+This project provides experience in PCB design and embedded software design. 
 
 ## Tasks
 
