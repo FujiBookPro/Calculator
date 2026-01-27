@@ -1,16 +1,19 @@
 ## Members
 Charlie MacKenzie, Computer Engineering Student (2028)
+
 mcharlie06@vt.edu
 
 ## Mentor
 TBA
 
 ## Current Status
-IN PROGRESS
+NOT STARTED
 
 ## Project Overview
+This project aims to design a custom PCB for a handheld scientific calculator. The calculator should not simply
+_demonstrate_ calculator functionality: it should look, feel, and act like a calculator.
 
-The goal of this project is to design, build, and program a handheld calculator that meets the following requirements:
+### Requirements
 
 - Perform calculations using an on-board microcontroller.
 - Use an LCD display for outputs.
@@ -22,8 +25,9 @@ The goal of this project is to design, build, and program a handheld calculator 
 - At least cursorily attempt to be powered by a battery.
 
 ## Educational Value Added
-
-This project provides experience in PCB design and embedded software design. 
+- PCB design experience
+- Embedded programming experience
+- Open-ended design Challenge
 
 ## Tasks
 
