@@ -1,1 +1,6 @@
 KiCAD/calculator/calculator-backups/
+
+stm32g0-calculator/.cache
+stm32g0-calculator/build
+stm32g0-calculator/cmake
+
